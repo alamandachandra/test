@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : TEST3.cpp
-// Author      : 
-// Version     :
+// Author      : Alamanda Chandra Sekhar. 
+// Version     : 0.1
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
