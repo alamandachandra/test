@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : MPI-TEST.c
- Author      : 
- Version     :
+ Author      : Alamanda Poorna Chandra Sekhar 
+ Version     : 0.1
  Copyright   : Your copyright notice
  Description : Hello MPI World in C 
  ============================================================================
